@@ -1,1 +1,1 @@
-python "C:\Users\Nathan\PycharmProjects\MP4 Converter\main.py"
+python "C:\Users\{USER}\Documents\YTDownloader\Scripts\main.py"
