@@ -13,6 +13,8 @@ You'll want to install python, which should let you do most of the commands you 
 Run `pip.bat` after downloading + installing python and adjusting the files so the folder paths are exactly like yours.
 They should look like this `"C:\Users\Bob\Documents...."`
 
+Keep the extention of %%(title).... in the Youtube DL files, they help with the naming of the file.
+
 Now you can run any of the files for thier needs
 
 ### What Each File Does
