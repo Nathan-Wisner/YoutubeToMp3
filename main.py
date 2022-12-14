@@ -1,8 +1,8 @@
 import moviepy.editor as mp
 import os
 
-src = r"C:\Users\%USERPROFILE%\Documents\YTDownloader\Videos"
-dest = r"C:\Users\%USERPROFILE%\Documents\YTDownloader\MP3"
+src = r"C:\Users\{USERPROFILE}\Documents\YTDownloader\Videos"
+dest = r"C:\Users\{USERPROFILE}\Documents\YTDownloader\MP3"
 
 for filename in os.listdir(src):
     if filename.endswith(".mp4") and not os.path.exists(src + "\\" + filename[:-4] + ".wav"):
